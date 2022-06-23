@@ -10,10 +10,10 @@
 The milestone is to write a program that parses a CSV.
 
 What is a CSV?
-A csv (Comma Separated Values) is a comma delimited file. For example:
-"Name","Gender","Age"
-"John","M","12"
-"Sean","M","43"
+A csv (Comma Separated Values) is a comma delimited file. For example:  
+"Name","Gender","Age"  
+"John","M","12"  
+"Sean","M","43"  
 "Victoria","F","39"
 
 Note:
